@@ -1,0 +1,13 @@
+C:\Users\angel\source\repos\login_signup\login_signup\bin\Debug\login_signup.exe.config
+C:\Users\angel\source\repos\login_signup\login_signup\bin\Debug\login_signup.exe
+C:\Users\angel\source\repos\login_signup\login_signup\bin\Debug\login_signup.pdb
+C:\Users\angel\source\repos\login_signup\login_signup\obj\Debug\login_signup.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\login_signup\login_signup\obj\Debug\login_signup.Properties.Resources.resources
+C:\Users\angel\source\repos\login_signup\login_signup\obj\Debug\login_signup.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\login_signup\login_signup\obj\Debug\login_signup.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\login_signup\login_signup\obj\Debug\login_signup.exe
+C:\Users\angel\source\repos\login_signup\login_signup\obj\Debug\login_signup.pdb
+C:\Users\angel\source\repos\login_signup\login_signup\obj\Debug\login_signup.LoginForm.resources
+C:\Users\angel\source\repos\login_signup\login_signup\obj\Debug\login_signup.SignupForm.resources
+C:\Users\angel\source\repos\login_signup\login_signup\obj\Debug\login_signup.MainPageForm.resources
+C:\Users\angel\source\repos\login_signup\login_signup\obj\Debug\login_signup.LoginSignUpChoiceForm.resources
