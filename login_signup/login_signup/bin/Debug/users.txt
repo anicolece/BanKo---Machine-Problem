@@ -1,0 +1,16 @@
+UserId: 211825
+Full Name: jerome
+Username: aman
+Password: password123@
+Email: j@rocketmail.com
+Phone: 09676767676
+Balance: 9999.00
+---------------------------------------------
+UserId: 507620
+Full Name: admin
+Username: admin
+Password: adminako123@
+Email: admin@rocketmail.com
+Phone: 09678910222
+Balance: 9974757.24
+---------------------------------------------

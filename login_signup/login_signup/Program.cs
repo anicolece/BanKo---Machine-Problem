@@ -16,7 +16,7 @@ namespace login_signup
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LoginSignUpChoiceForm());
+            Application.Run(new LoginSignUpChoiceForm());   
         }
     }
 }
